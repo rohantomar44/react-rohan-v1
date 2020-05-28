@@ -1,0 +1,22 @@
+.Login {
+  text-align: center;
+  padding: 5em 32%;
+}
+.single-section {
+  padding: 15px 0 ;
+  text-align: left;
+}
+.label-text {
+  font-size: 0.8em;
+  margin-right: 0.5em;
+  /* display: inline-block; */
+}
+.signup-text {
+  text-align: left;
+  margin-bottom: 1.5em;
+  text-decoration: underline;
+}
+.input-field {
+  padding: 5px;
+  width: 100%;
+}
